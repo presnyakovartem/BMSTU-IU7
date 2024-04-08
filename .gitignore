@@ -1,0 +1,8 @@
+out.txt
+*.gcno
+*.gcov
+*.gcda
+*.o
+*.exe
+__pycache__
+*.docx
